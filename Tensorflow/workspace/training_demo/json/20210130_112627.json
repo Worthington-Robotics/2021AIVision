@@ -1,0 +1,43 @@
+{
+    "annotation": {
+        "folder": "27-28",
+        "filename": "20210130_112627.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210130_112627.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "3264",
+            "height": "1836",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "boulder",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "139",
+                    "ymin": "664",
+                    "xmax": "466",
+                    "ymax": "921"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1023",
+                    "ymin": "1437",
+                    "xmax": "1364",
+                    "ymax": "1754"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

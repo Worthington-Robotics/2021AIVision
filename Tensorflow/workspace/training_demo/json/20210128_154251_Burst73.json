@@ -1,0 +1,79 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "20210128_154251_Burst73.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_154251_Burst73.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "fuel",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1482",
+                    "ymin": "300",
+                    "xmax": "1619",
+                    "ymax": "449"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1068",
+                    "ymin": "441",
+                    "xmax": "1231",
+                    "ymax": "602"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "935",
+                    "ymin": "637",
+                    "xmax": "1080",
+                    "ymax": "792"
+                }
+            },
+            {
+                "name": "boulder",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1037",
+                    "ymin": "666",
+                    "xmax": "1245",
+                    "ymax": "849"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "1",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "176",
+                    "ymin": "1017",
+                    "xmax": "256",
+                    "ymax": "1080"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

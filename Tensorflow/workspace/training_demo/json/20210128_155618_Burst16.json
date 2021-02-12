@@ -1,0 +1,139 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "20210128_155618_Burst16.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_155618_Burst16.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1047",
+                    "ymin": "114",
+                    "xmax": "1206",
+                    "ymax": "298"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "953",
+                    "ymin": "470",
+                    "xmax": "1119",
+                    "ymax": "625"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "957",
+                    "ymin": "619",
+                    "xmax": "1115",
+                    "ymax": "770"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1139",
+                    "ymin": "741",
+                    "xmax": "1310",
+                    "ymax": "906"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1013",
+                    "ymin": "743",
+                    "xmax": "1147",
+                    "ymax": "914"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "813",
+                    "ymin": "619",
+                    "xmax": "945",
+                    "ymax": "757"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "878",
+                    "ymin": "688",
+                    "xmax": "996",
+                    "ymax": "843"
+                }
+            },
+            {
+                "name": "boulder",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "772",
+                    "ymin": "445",
+                    "xmax": "945",
+                    "ymax": "629"
+                }
+            },
+            {
+                "name": "basketball",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1349",
+                    "ymin": "612",
+                    "xmax": "1576",
+                    "ymax": "839"
+                }
+            },
+            {
+                "name": "fuel",
+                "pose": "Unspecified",
+                "truncated": "1",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1133",
+                    "ymin": "1002",
+                    "xmax": "1246",
+                    "ymax": "1080"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

@@ -1,0 +1,91 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "20210128_155604_Burst04.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_155604_Burst04.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "592",
+                    "ymin": "710",
+                    "xmax": "643",
+                    "ymax": "784"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "594",
+                    "ymin": "827",
+                    "xmax": "653",
+                    "ymax": "900"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "641",
+                    "ymin": "882",
+                    "xmax": "706",
+                    "ymax": "959"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "672",
+                    "ymin": "990",
+                    "xmax": "739",
+                    "ymax": "1078"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "615",
+                    "ymin": "935",
+                    "xmax": "686",
+                    "ymax": "994"
+                }
+            },
+            {
+                "name": "basketball",
+                "pose": "Unspecified",
+                "truncated": "1",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1343",
+                    "ymin": "921",
+                    "xmax": "1534",
+                    "ymax": "1080"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

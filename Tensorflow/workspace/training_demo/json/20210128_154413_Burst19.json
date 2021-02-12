@@ -1,0 +1,67 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "20210128_154413_Burst19.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_154413_Burst19.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "923",
+                    "ymin": "406",
+                    "xmax": "1057",
+                    "ymax": "553"
+                }
+            },
+            {
+                "name": "boulder",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1092",
+                    "ymin": "502",
+                    "xmax": "1304",
+                    "ymax": "727"
+                }
+            },
+            {
+                "name": "fuel",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1019",
+                    "ymin": "529",
+                    "xmax": "1104",
+                    "ymax": "623"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1011",
+                    "ymin": "596",
+                    "xmax": "1141",
+                    "ymax": "729"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

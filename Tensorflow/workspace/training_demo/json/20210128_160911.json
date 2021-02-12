@@ -1,0 +1,29 @@
+{
+    "annotation": {
+        "folder": "27-28",
+        "filename": "20210128_160911.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_160911.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "2560",
+            "height": "1440",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": {
+            "name": "powercell",
+            "pose": "Unspecified",
+            "truncated": "0",
+            "difficult": "0",
+            "bndbox": {
+                "xmin": "1139",
+                "ymin": "1111",
+                "xmax": "1168",
+                "ymax": "1148"
+            }
+        }
+    },
+    "holdback": "true"
+}

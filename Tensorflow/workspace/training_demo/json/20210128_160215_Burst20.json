@@ -1,0 +1,29 @@
+{
+    "annotation": {
+        "folder": "23-26",
+        "filename": "20210128_160215_Burst20.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_160215_Burst20.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": {
+            "name": "powercell",
+            "pose": "Unspecified",
+            "truncated": "0",
+            "difficult": "0",
+            "bndbox": {
+                "xmin": "1057",
+                "ymin": "78",
+                "xmax": "1190",
+                "ymax": "210"
+            }
+        }
+    },
+    "holdback": "true"
+}

@@ -1,0 +1,91 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "20210128_154827_Burst11.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_154827_Burst11.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1464",
+                    "ymin": "345",
+                    "xmax": "1666",
+                    "ymax": "539"
+                }
+            },
+            {
+                "name": "boulder",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1357",
+                    "ymin": "608",
+                    "xmax": "1531",
+                    "ymax": "778"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1159",
+                    "ymin": "527",
+                    "xmax": "1245",
+                    "ymax": "617"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1062",
+                    "ymin": "529",
+                    "xmax": "1168",
+                    "ymax": "623"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1113",
+                    "ymin": "696",
+                    "xmax": "1211",
+                    "ymax": "790"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "937",
+                    "ymin": "582",
+                    "xmax": "1002",
+                    "ymax": "651"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

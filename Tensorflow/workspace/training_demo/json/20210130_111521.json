@@ -1,0 +1,29 @@
+{
+    "annotation": {
+        "folder": "27-28",
+        "filename": "20210130_111521.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210130_111521.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "3264",
+            "height": "1836",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": {
+            "name": "fuel",
+            "pose": "Unspecified",
+            "truncated": "0",
+            "difficult": "0",
+            "bndbox": {
+                "xmin": "1464",
+                "ymin": "707",
+                "xmax": "1844",
+                "ymax": "1094"
+            }
+        }
+    },
+    "holdback": "true"
+}

@@ -1,0 +1,67 @@
+{
+    "annotation": {
+        "folder": "27-28",
+        "filename": "20210130_113159.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210130_113159.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "3264",
+            "height": "1836",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1067",
+                    "ymin": "287",
+                    "xmax": "1434",
+                    "ymax": "591"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1124",
+                    "ymin": "534",
+                    "xmax": "1500",
+                    "ymax": "897"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1717",
+                    "ymin": "617",
+                    "xmax": "2174",
+                    "ymax": "1011"
+                }
+            },
+            {
+                "name": "fuel",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1320",
+                    "ymin": "934",
+                    "xmax": "1647",
+                    "ymax": "1251"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}

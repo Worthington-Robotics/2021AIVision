@@ -1,0 +1,127 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "20210128_154927_Burst28.jpg",
+        "path": "c:\\Users\\markc\\Documents\\Vision Stuff\\Tensorflow\\workspace\\training_demo\\images20210128_154927_Burst28.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "1920",
+            "height": "1080",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": [
+            {
+                "name": "boulder",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1210",
+                    "ymin": "557",
+                    "xmax": "1374",
+                    "ymax": "717"
+                }
+            },
+            {
+                "name": "fuel",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1280",
+                    "ymin": "439",
+                    "xmax": "1372",
+                    "ymax": "529"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "992",
+                    "ymin": "961",
+                    "xmax": "1047",
+                    "ymax": "1017"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "992",
+                    "ymin": "900",
+                    "xmax": "1043",
+                    "ymax": "953"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1076",
+                    "ymin": "657",
+                    "xmax": "1151",
+                    "ymax": "725"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1049",
+                    "ymin": "553",
+                    "xmax": "1127",
+                    "ymax": "615"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "986",
+                    "ymin": "623",
+                    "xmax": "1035",
+                    "ymax": "682"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "1031",
+                    "ymin": "523",
+                    "xmax": "1117",
+                    "ymax": "559"
+                }
+            },
+            {
+                "name": "powercell",
+                "pose": "Unspecified",
+                "truncated": "0",
+                "difficult": "0",
+                "bndbox": {
+                    "xmin": "992",
+                    "ymin": "453",
+                    "xmax": "1041",
+                    "ymax": "506"
+                }
+            }
+        ]
+    },
+    "holdback": "true"
+}
