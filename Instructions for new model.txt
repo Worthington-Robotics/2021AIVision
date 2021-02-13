@@ -1,0 +1,14 @@
+Download http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz
+
+Extract into pre trained models folder
+
+Copy folder extracted into training_demo/models and rename to "my_ssd_mobilenet_v2"
+
+Edit lines of pipeline.config 
+171 change classification to detection
+175 to path of label map
+177 to train.record path
+185 to path of label map
+189 to train.record path
+
+Run training
