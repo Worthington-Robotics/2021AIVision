@@ -6,7 +6,9 @@ Copy the extracted folder (Should be named "ssd_mobilenet_v2_fpnlite_640x640_coc
 
 Rename the copied folder to "my_ssd_mobilenet_v2"
 
-Edit lines of pipeline.config 
+Delete everything in "my_ssd_mobilenet_v2" except for pipeline.config
+
+Edit lines of pipeline.config inside "my_ssd_miblenet_v2"
 3 - from 90 to 1
 165 to "pre-trained-models/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8/checkpoint/ckpt-0"
 171 change classification to detection
