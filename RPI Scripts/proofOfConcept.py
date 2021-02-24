@@ -13,6 +13,7 @@ interpreter.allocate_tensors()
 
 input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
+input_shape = input_details[0]['shape']
 height = input_details[0]['shape'][1]
 width = input_details[0]['shape'][2]
 
@@ -42,6 +43,8 @@ while True:
         input_img = cv2.cvtColor(input_img, cv2.COLOR_BGR2RGB)
 
         input_data = np.expand_dims(input_img, axis=0)
+
+        input_data = np.array(np.random.random_sample(input_shape), dtype=np.float32)
 
         print(input_data.shape)
 
