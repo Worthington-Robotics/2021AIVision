@@ -338,6 +338,7 @@ if __name__ == '__main__':
     logging.info(f"Start training from epoch {last_epoch + 1}.")
     
     for epoch in range(last_epoch + 1, args.num_epochs):
+        timer.start("Train")
         scheduler.step()
         train(train_loader, net, criterion, optimizer,
               device=DEVICE, debug_steps=args.debug_steps, epoch=epoch)
@@ -353,5 +354,6 @@ if __name__ == '__main__':
             model_path = os.path.join(args.checkpoint_folder, f"{args.net}-Epoch-{epoch}-Loss-{val_loss}.pth")
             net.save(model_path)
             logging.info(f"Saved model {model_path}")
+            logging.info(f'Took {timer.end("Train"):.2f} seconds to complete epoch.')
 
     logging.info("Task done, exiting program.")
