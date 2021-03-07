@@ -1,0 +1,4 @@
+powercell
+boulder
+fuel
+basketball
